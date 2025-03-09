@@ -1,0 +1,7 @@
+{
+  "best_params": {
+    "max_depth": 7,
+    "n_estimators": 100
+  },
+  "best_score": 0.7616958924147883
+}
